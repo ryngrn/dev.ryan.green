@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><title><![CDATA[Starting with Ember.js]]></title><date><![CDATA[Fri, 08 Aug 2014 15:56:00 -0400]]></date><tags><![CDATA[]]></tags><private><![CDATA[]]></private><content><![CDATA[&lt;p&gt;
+	Here&amp;#39;s a few resources that have been really helpful in picking up &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;1. &lt;/strong&gt;&lt;a href=&quot;http://ember.codeschool.com/&quot;&gt;&lt;strong&gt;CodeSchool&amp;#39;s Ember Course&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+	With videos preceeding each section explaining what&amp;#39;s going on and a do-it-yourself challenge after each video, this course guides you through the basics. First level is free!&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;2. &lt;/strong&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/&quot;&gt;&lt;strong&gt;Smashing Magazine&amp;#39;s Beginner Demo&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+	More example-based than video based, this beginner tutorial / demo is better for those that prefer self-guided examples and already have a working knowledge of things like Handlebars. Dives right in to the details.&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;https://github.com/rpflorence/ember-tools&quot;&gt;&lt;strong&gt;3. Ember Tools&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+	For someone that doesn&amp;#39;t have much experience scaffolding apps, this is an amazing tool to get up and running quickly.&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;http://emberjs.com/guides/&quot;&gt;&lt;strong&gt;4. Ember.js Guides&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+	On the official site - it makes sense that these tutorials would be both helpful and easily available.&lt;/p&gt;
+&lt;p&gt;
+	&lt;a href=&quot;http://emberjs.com/guides/cookbook/&quot;&gt;&lt;strong&gt;5. Ember.js Cookbook&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+	Invaluable for solving specific problems in Ember. Don&amp;#39;t reinvent the wheel, just follow the best practice!&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;BONUS!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		One-line local server with &lt;pre&gt;npm install -g serve&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+]]></content></item>

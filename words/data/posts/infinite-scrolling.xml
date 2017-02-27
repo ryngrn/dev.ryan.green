@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><title><![CDATA[Infinite Scrolling]]></title><date><![CDATA[Tue, 22 Oct 2013 17:17:54 -0400]]></date><tags><![CDATA[designpatterns,ux,ui]]></tags><private><![CDATA[]]></private><content><![CDATA[&lt;p&gt;
+	Finally looked at through a &lt;a href=&quot;http://uxdesign.smashingmagazine.com/2013/05/03/infinite-scrolling-get-bottom/&quot;&gt;critical eye&lt;/a&gt;, I feel vindicated in the fact that I&amp;#39;ve been vocal in my dislike of &amp;quot;infinite scrolling&amp;quot; for content other than image galleries or blog titles. How many websites have enough quality, curated content that you just need to infinite-scroll through things? In my experience, the data is usually very trivial (see: old Facebook timeline) or it&amp;#39;s not at a quality level worth spending time (see: affiliate marketing sites and content farms).&lt;/p&gt;
+&lt;p&gt;
+	Even the biggest collectors of data, message boards and wikis, have a hierarchical structure to them. I&amp;#39;m not angry, its more like a cry for order and for people to wake up! &lt;strong&gt;Infinite scrolling&lt;/strong&gt; for content other than my aforementioned &amp;quot;passes&amp;quot; &lt;strong&gt;is lazy IA.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	Even with my Facebook example of a bad user pattern, they have started grouping by years and lazyloading content as you infinite scroll through that year. It&amp;#39;s a shitty pattern and I&amp;#39;m glad that the user experience professionals that recommend it are being called out.&lt;/p&gt;
+]]></content></item>

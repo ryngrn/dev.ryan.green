@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><title><![CDATA[PHP Image Gallery from Directory]]></title><date><![CDATA[Thu, 24 Oct 2013 17:22:00 -0400]]></date><tags><![CDATA[code,php]]></tags><private><![CDATA[Y]]></private><content><![CDATA[&lt;p&gt;
+	Amazing one-function gallery from images in a folder.&lt;/p&gt;
+&lt;pre&gt;
+&lt;!--?php
+    function mtimecmp($a, $b) {
+        $mt_a = filemtime($a);
+        $mt_b = filemtime($b);
+
+        if ($mt_a == $mt_b)
+            return 0;
+        else if ($mt_a &lt; $mt_b)
+            return -1;
+        else
+            return 1;
+    }
+
+    $images = glob($dirname.&quot;*.jpg&quot;);
+    usort($images, &quot;mtimecmp&quot;);
+    array_reverse($images);
+
+    foreach ($images as $image) {
+        echo &#039;&lt;img  data-cke-saved-src=&quot;&#039;.$image.&#039;&quot; src=&quot;&#039;.$image.&#039;&quot; height =&quot;400&quot;/--&gt;&amp;lt;?php
+&amp;nbsp;&amp;nbsp;&amp;nbsp; function mtimecmp($a, $b) {
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $mt_a = filemtime($a);
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $mt_b = filemtime($b);
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($mt_a == $mt_b)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return 0;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; else if ($mt_a &amp;lt; $mt_b)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return -1;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; else
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; return 1;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; }
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp; $images = glob($dirname.&amp;quot;*.jpg&amp;quot;);
+&amp;nbsp;&amp;nbsp;&amp;nbsp; usort($images, &amp;quot;mtimecmp&amp;quot;);
+&amp;nbsp;&amp;nbsp;&amp;nbsp; array_reverse($images);
+
+&amp;nbsp;&amp;nbsp;&amp;nbsp; foreach ($images as $image) {
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &amp;#39;&amp;lt;img src=&amp;quot;&amp;#39;.$image.&amp;#39;&amp;quot; height =&amp;quot;400&amp;quot;/&amp;gt;&amp;lt;br /&amp;gt;&amp;#39;;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; }
+?&amp;gt;
+&lt;/pre&gt;
+]]></content></item>

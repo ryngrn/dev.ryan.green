@@ -1,0 +1,70 @@
+.ammapAlert 
+{
+    display:table-cell; 
+    vertical-align:middle; 
+    text-align:center; 
+    font-family:verdana,helvetica,arial,sans-serif;
+    font-size:12px;
+    color:#CC0000;
+}
+
+.ammapDescriptionWindow
+{
+   font-size:11px;
+   font-family:verdana,helvetica,arial,sans-serif;    
+   background-color:#040404;
+   border-style:solid;
+   border-color:#DADADA;
+   border-width:1px;
+   color:#fff;
+   padding:8px;  
+}
+
+.ammapDescriptionTitle
+{
+   font-size:12px;
+   font-weight:bold;
+   font-family:verdana,helvetica,arial,sans-serif;
+   padding-bottom:5px;    
+}
+
+.ammapDescriptionWindowCloseButton
+{
+    
+}
+
+.ammapObjectList ol 
+{
+    padding-left:20px; 
+    list-style:square outside; 
+    color:#999999;
+    font-family:verdana,helvetica,arial,sans-serif;
+    font-size: 16px;
+}
+
+
+.ammapObjectList a 
+{
+    color:#616161;
+    text-decoration:none;
+    display:block;
+    padding:2px;
+}
+
+.ammapObjectList a:hover 
+{
+    color:#f1f1f1;
+    text-decoration:none;
+    background:#b72c2c;
+    cursor:pointer;
+    display:block;
+}
+
+.ammapDescriptionText 
+{
+	overflow: auto; 
+}
+
+#mapdiv{}
+#devInfo{background:#040404; border: none;}
+

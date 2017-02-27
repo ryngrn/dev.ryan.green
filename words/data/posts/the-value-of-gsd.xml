@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><title><![CDATA[The Value of &quot;GSD&quot;]]></title><date><![CDATA[Mon, 19 May 2014 16:54:43 -0400]]></date><tags><![CDATA[]]></tags><private><![CDATA[]]></private><content><![CDATA[(In so many words) my grandfather used to say &quot;It don&#039;t have to be perfect, it just has to be done.&quot; There really is value in Getting Shit Done.
+
+For all the motivational talks heard, demos sat through of workflow tools, and business insight books read, sometimes I hit a wall in the plan / design / develop process. Whether it&#039;s getting stuck on a screen and making 20 versions of the wireframe until I understand the problem well enough to frame it correctly. Maybe it&#039;s writing a JS control because I have a specific idea in my head and End up spinning wheels for days on Stack Overflow. Most recently, it was learning to SSH, wiring the VPS and proxy to see the VPS IP, then troubleshooting Apache permission errors and sudo-ing the Terminal to death to get Forever to run a hexo instance. Though I spent several frustrated hours learning it all, it&#039;s a skillset that seemed unobtainable before my last &#039;web trip&#039;.
+
+I attended Artifact Conference in Austin, TX and heard talks from some cool web dudes. Trent Walton, Brad Frost, and Dave Rupert are great dudes to listen to but my big breakthrough didn&#039;t come from their talks. My big breakthrough came from Stephen Hay&#039;s talk &quot;Power Tools for Browser Based Design&quot;. 
+
+This guy came out of the box recommending things I knew about like Markdown then quickly transitioned to command line tools like Grumpicon, Imagemagick, static site generators like Jekyll and Dexy as well as SSH and node.js and. NPH packages. I knew OF this world, but I had never truly gotten in the deep end to figure it out (10 hours later, I had made headway).
+
+For someone that came up in the world of building every page, using PHP includes for recurring zones, and naming every file this was fucking scary. No FTP? Package installers? It was hard, but It feels so damn good to get it done. If I ever need to spin up a site in less than 10 minutes, I know exactly what to do now. In fact, I can actually use JSON templates to pipe in ACTUAL content and design around it in the browser. Less time with technical stuff, more time on the content and UI. Wins all around.
+
+A little pain can go a long way towards growing your skillset.]]></content></item>

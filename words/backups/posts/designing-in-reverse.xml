@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><title><![CDATA[Designing in Reverse]]></title><date><![CDATA[Thu, 24 Oct 2013 16:40:28 -0400]]></date><tags><![CDATA[]]></tags><private><![CDATA[]]></private><content><![CDATA[&lt;p&gt;
+	When I started working on the latest version of ryngrn.com (v16 !!!), I started to slip into the same process I generally do. Sit down with a pencil and graph paper, start to map what content I&amp;#39;m keeping, what&amp;#39;s being cut, and what needs to be created. After 10 minutes (or less) I&amp;#39;m into sketching wireframes and mapping general layouts in desktop / mobile views side by side. Probably sounds similar to your process, right?&lt;/p&gt;
+&lt;p&gt;
+	What happened is I ended up feeling good about the session and filed the drawings away for when I had time to start building... but when I pulled the drawings out to begin I became unsatisfied and started wireframing again. And again. And again... bitten by the bug of overplanning.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	Coming back to my home office a few days later, I felt like making something. An illustration. An icon... instead I started building a subpage of the site. Not only did I skip the Photoshop phase, I didn&amp;#39;t even start with the mountain of drawings I had collected, letting the content shape what the page looked like.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	About three hours in, I realized that the page was starting to look halfway respectible but I wasn&amp;#39;t sure how it would interact with the other pages I had mapped out. Instead of digging the rabbit hole deeper, I started another page. The next day I coded over my lunch break and was able to repurpose a page I had on my site previously, but with the new grid / styles. Before I knew it, I was 1/3 of the way completed with the redesign, almost by accident!&lt;/p&gt;
+&lt;h2&gt;
+	Biggest takeaways&amp;nbsp;&lt;/h2&gt;
+&lt;p&gt;
+	&lt;strong&gt;Designing Websites in Photoshop is No Longer Effective&lt;/strong&gt;&lt;br /&gt;
+	For v16, I only used Photoshop for creating icons / pngs, specific content images, and hex/rgb color selection. Previously, Photoshop had been the &amp;quot;intermediate&amp;quot; step that somehow always ended up being the roadblock between idea and shipping a product. Now I am using PS as the Swiss-Army-Knife that it is instead of using it to 100% mock up every kind of page and work out every detail.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Designing With Real Content Yields Better Page Layouts&lt;/strong&gt;&lt;br /&gt;
+	If I hadn&amp;#39;t been using my actual content for designing the initial pages, I would have never settled on the layout that works best - what some people chalk up to &amp;quot;happy accidents&amp;quot; are really just the results of micro-iterations or guessing and testing. No amount of wireframing can account for length of names or common form factors of images. Instead of square pegs in a round hole, create round pegs to begin with!&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Nobody Cares About Your Drop-shadow or Gradient&lt;/strong&gt;&lt;br /&gt;
+	When you design around actual content, I&amp;#39;ve found that super-specific details that make PSD files stellar don&amp;#39;t really matter. Does that button really need a 5-step gradient and a double-border and bevel? Make a simple button that contrasts well with its environment. It need a bit more jazz? You can put the lipstick on it later with CSS. Designing with code makes sure you aren&amp;#39;t designing in hypotheticals, but more importantly you don&amp;#39;t end up spending 4 hours making the perfect button for one specific layout. Make a button in code that fits the whole system instead!&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+]]></content></item>

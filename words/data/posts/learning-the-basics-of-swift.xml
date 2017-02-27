@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><title><![CDATA[Learning the Basics of Swift]]></title><date><![CDATA[Mon, 02 Feb 2015 17:12:51 -0500]]></date><tags><![CDATA[]]></tags><private><![CDATA[]]></private><content><![CDATA[&lt;p&gt;
+	To be a better UX&amp;#39;er concerning all things iOS, LifeWallet has encouraged me to complete the &lt;a href=&quot;https://itunes.apple.com/us/course/1.-logistics-ios-8-overview/id961180099?i=333886882&amp;amp;mt=2&quot;&gt;Stanford CS193P course &amp;#39;Developing iOS Applications with Swift&amp;#39;&lt;/a&gt; which happens to be on iTunes U. It is a hands-on course that encourages you to code along with the professor as he goes, learning keystrokes and quick tips along the way.&lt;/p&gt;
+&lt;p&gt;
+	Full disclosure, I&amp;#39;ve only worked with the web stack and done design mockups for iOS or responsive websites for the form factor. This means that I will be learning xCode for the first time as well. I&amp;#39;ll be sharing my takeaways from the lectures as I go through the series.&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	Lesson 1 takeaways:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		xCode has a seriously dense interface. Lots of awesome functionality, but MAN it is dense.&lt;/li&gt;
+	&lt;li&gt;
+		Storyboards (aka, being able to use Auto Layout) are the way to go since there&amp;#39;s so many different screen sizes.&lt;/li&gt;
+	&lt;li&gt;
+		You can drag UI items from the library to the Storyboard and from the Storyboard to your code. Efficient.&lt;/li&gt;
+	&lt;li&gt;
+		There&amp;#39;s no formal garbage collection in Swift, it happens automagically. Nice!&lt;/li&gt;
+	&lt;li&gt;
+		Swift is strongly typed&lt;/li&gt;
+	&lt;li&gt;
+		In Swift, there&amp;#39;s the concept of &amp;quot;Optional&amp;quot;... meaning it can be Nil or can have a value&lt;/li&gt;
+	&lt;li&gt;
+		In Swift there&amp;#39;s the concept of variables that never change value. Helpful for a button that always outputs one thing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	... more to come ...&lt;/p&gt;
+]]></content></item>
