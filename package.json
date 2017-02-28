@@ -1,0 +1,24 @@
+{
+  "name": "ryan.green",
+  "version": "1.0.0",
+  "description": "Ryan Green's personal site and portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryngrn/dev.ryan.green.git"
+  },
+  "author": "Ryan Green",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryngrn/dev.ryan.green/issues"
+  },
+  "homepage": "https://github.com/ryngrn/dev.ryan.green#readme",
+  "devDependencies": {
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "dependencies": {}
+}
